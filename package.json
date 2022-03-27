@@ -1,0 +1,16 @@
+{
+  "name": "backend-vagas-scrapper",
+  "version": "1.0.0",
+  "description": "scrapping data from git repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3"
+  }
+}
